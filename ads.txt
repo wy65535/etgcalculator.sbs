@@ -1,0 +1,12 @@
+# Google AdSense
+# Replace pub-0000000000000000 with your actual AdSense publisher ID
+# google.com, pub-0000000000000000, DIRECT, f08c47fec0942fa0
+
+# This file helps prevent counterfeit inventory from being sold
+# Format: <domain>, <publisher_id>, <relationship>, <certification_authority_id>
+# 
+# Instructions:
+# 1. Get your Google AdSense Publisher ID from your AdSense account
+# 2. Replace pub-0000000000000000 with your actual Publisher ID
+# 3. Uncomment the google.com line above
+# 4. Upload this file to the root directory of your website
