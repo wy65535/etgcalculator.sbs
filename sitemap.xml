@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+        http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+
+    <!-- Homepage - ETG Calculator -->
+    <url>
+        <loc>https://etgcalculator.sbs/</loc>
+        <lastmod>2025-01-06</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <!-- Privacy Policy -->
+    <url>
+        <loc>https://etgcalculator.sbs/privacy.html</loc>
+        <lastmod>2025-01-06</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.5</priority>
+    </url>
+
+    <!-- Calculator Section -->
+    <url>
+        <loc>https://etgcalculator.sbs/#calculator</loc>
+        <lastmod>2025-01-06</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.9</priority>
+    </url>
+
+    <!-- About ETG Section -->
+    <url>
+        <loc>https://etgcalculator.sbs/#about</loc>
+        <lastmod>2025-01-06</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <!-- FAQ Section -->
+    <url>
+        <loc>https://etgcalculator.sbs/#faq</loc>
+        <lastmod>2025-01-06</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+</urlset>
